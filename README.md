@@ -1,11 +1,11 @@
-爬虫
-# Data Collecting  
+
+# Data Collecting  爬虫
 - `snopes.py` by Tianqi
   - It is used to collect data from website www.snopes.com and qc.wa.news.cn (departed)
   
   
-  数据分析
-# Data Analysis  
+  
+# Data Analysis    对csv数据分析
 `data_process.ipynb` is written on Jupyter Notebook.  
 
 
