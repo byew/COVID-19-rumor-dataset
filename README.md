@@ -1,21 +1,10 @@
-# File Structure
-```
-├── Data
-│   ├── en_dup.csv
-│	└── news
-│	└── twitter
-├── Data Analysis
-│   └── data_process.ipynb
-├── Data Collecting
-│   └── snopes.py
-├── LICENSE
-└── README.md
-```
-
+爬虫
 # Data Collecting  
 - `snopes.py` by Tianqi
   - It is used to collect data from website www.snopes.com and qc.wa.news.cn (departed)
-
+  
+  
+  数据分析
 # Data Analysis  
 `data_process.ipynb` is written on Jupyter Notebook.  
 
@@ -37,7 +26,4 @@
   
   
 # Acknowledgement
-- We thank Tianqi, Wenshuo, Jianni, Xiaofeng, and Hanlong for rumor data collection and labeling.  
-
-# The MIT License (MIT)
-
+转发自：https://github.com/MickeysClubhouse/COVID-19-rumor-dataset
